@@ -19,8 +19,8 @@ public class AT01_Navigate {
         System.out.println("This is method-3");
     }
      @Test
-    public void test03(){
+    public void test04(){
 
-        System.out.println("This is method-3");
+        System.out.println("This is method-4");
     }
 }
