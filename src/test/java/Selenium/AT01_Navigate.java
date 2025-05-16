@@ -23,14 +23,19 @@ public class AT01_Navigate {
 
         System.out.println("This is method-4");
     }
-      @Test
+
+   @Test
     public void test05(){
 
         System.out.println("This is method-5");
+
     }
-      @Test
+    @Test
     public void test06(){
 
         System.out.println("This is method-6");
+        System.out.println("This is method-6.1");
+
     }
+
 }
